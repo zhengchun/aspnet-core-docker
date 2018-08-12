@@ -1,0 +1,1 @@
+`docker run -v /app:/app zhengchun/webapp:latest Your-Application.dll`
