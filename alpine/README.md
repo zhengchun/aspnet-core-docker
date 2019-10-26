@@ -1,1 +1,1 @@
-`docker run -p 80:80 --mount type=bind,src=/app,dst=/app zhengchun/webapp:aspnet-2.1.11-alpine3.7 aspnetapp.dll`
+`docker run -p 80:80 --mount type=bind,src=/app,dst=/app zhengchun/aspnet:latest aspnetapp.dll`

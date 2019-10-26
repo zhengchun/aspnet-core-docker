@@ -1,1 +1,1 @@
-`docker run -v /app:/app zhengchun/webapp:latest Your-Application.dll`
+`docker run -p 80:80 -v /app:/app zhengchun/aspnet:latest Your-Application.dll`
