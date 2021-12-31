@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/core/aspnet:3.1-alpine3.10
+FROM mcr.microsoft.com/dotnet/aspnet:5.0-alpine3.12-amd64
 
 WORKDIR /app
 
